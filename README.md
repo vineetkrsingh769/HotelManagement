@@ -1,4 +1,4 @@
-# Hotel-Management-OOP-Project
+# Hotel-Management-Project
 
 This is a Hotel Management tool which can be used to manage
 activites like storing customer details, booking rooms of four different types, ordering food
